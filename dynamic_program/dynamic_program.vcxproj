@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1_2_3_plus.cpp" />
+    <ClCompile Include="1_2_3_plus_5.cpp" />
     <ClCompile Include="2n_tiling_2.cpp" />
     <ClCompile Include="buy_card.cpp" />
     <ClCompile Include="buy_card_2.cpp" />
