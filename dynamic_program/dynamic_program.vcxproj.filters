@@ -33,5 +33,11 @@
     <ClCompile Include="easy_step_number.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pinary number.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Longest increasing partial sequence.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
