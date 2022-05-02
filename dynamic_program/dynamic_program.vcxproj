@@ -145,6 +145,7 @@
     <ClCompile Include="buy_card_2.cpp" />
     <ClCompile Include="easy_step_number.cpp" />
     <ClCompile Include="Longest increasing partial sequence.cpp" />
+    <ClCompile Include="Longest increasing partial sequence_4.cpp" />
     <ClCompile Include="pinary number.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
