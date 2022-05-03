@@ -143,6 +143,7 @@
     <ClCompile Include="2n_tiling_2.cpp" />
     <ClCompile Include="buy_card.cpp" />
     <ClCompile Include="buy_card_2.cpp" />
+    <ClCompile Include="continuous_sum.cpp" />
     <ClCompile Include="easy_step_number.cpp" />
     <ClCompile Include="Longest increasing partial sequence.cpp" />
     <ClCompile Include="Longest increasing partial sequence_4.cpp" />

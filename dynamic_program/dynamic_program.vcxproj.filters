@@ -42,5 +42,8 @@
     <ClCompile Include="Longest increasing partial sequence_4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="continuous_sum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
