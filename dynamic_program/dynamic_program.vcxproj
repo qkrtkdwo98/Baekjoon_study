@@ -148,6 +148,7 @@
     <ClCompile Include="Longest increasing partial sequence.cpp" />
     <ClCompile Include="Longest increasing partial sequence_4.cpp" />
     <ClCompile Include="pinary number.cpp" />
+    <ClCompile Include="sum_of_square_number.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
