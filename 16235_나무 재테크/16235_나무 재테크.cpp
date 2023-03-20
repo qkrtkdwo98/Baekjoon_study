@@ -14,7 +14,6 @@ using namespace std;
 typedef struct {
     int x;
     int y;
-
 }xy;
 typedef struct {
     int a;
